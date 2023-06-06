@@ -2,8 +2,7 @@
 
 
 <h1>Julian Saucedo</h1>
-<p>Me presento como una persona responsable, puntual, atenta y con capacidad de aprender rápido tareas nuevas, 
-    así también fomentando trabajar en equipo y lograr el mejor resultado posible.</p>
+<p>Hola me llamo Julian y en el repositorio van a ver lo que fui trabajando a lo largo de mi vida como programador, tambien van a poder visualizar apuntes de las tecnologias y lenguajes que fui aprendiendo.</p>
 
 
 
