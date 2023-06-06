@@ -2,7 +2,7 @@
 
 
 <h1>Julian Saucedo</h1>
-<p>Hola me llamo Julian y en el repositorio van a ver lo que fui trabajando a lo largo de mi vida como programador, tambien van a poder visualizar apuntes de las tecnologias y lenguajes que fui aprendiendo.</p>
+<p>Hola me llamo Julian y en el repositorio van a ver lo que fui trabajando a lo largo de mi vida como programador, Ademas van a poder visualizar apuntes de las tecnologias y lenguajes que fui aprendiendo.</p>
 
 
 
